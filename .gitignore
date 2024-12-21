@@ -1,0 +1,12 @@
+ Simon J. D. Prince - Understanding Deep Learning.pdf
+.DS_Store
+.python-version
+micrograd.ipynb
+perceptron_numpy.ipynb
+notes/1_perceptron.pdf
+videos/.DS_Store
+videos/Neural Net 0-hero/1. Intro to Backprop and Micrograd.mp4
+videos/Neural Net 0-hero/2. Building makemore Part 2_ MLP.mp4
+videos/Text/Chapter 3 - Shallow Neural Networks.mp4
+videos/Text/Chapter 4 - Deep Neural Networks.mp4
+videos/Text/Chatper 1+2 - Intro and Supervised Learning.mp4
